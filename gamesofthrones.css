@@ -14,7 +14,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    background: url(./public/Juego-de-Tronos.jpg);
+    background: url(../proyecto-original/public/Juego-de-Tronos.jpg)
 }
 
 
