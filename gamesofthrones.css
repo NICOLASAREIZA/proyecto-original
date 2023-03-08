@@ -11,7 +11,7 @@ body{
     height: 100vh;
     justify-content: center;
     align-items: center;
-    background: url(../proyecto-original/public/Juego-de-Tronos.jpg);
+    background: url(./public/Juego-de-Tronos\ .jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
