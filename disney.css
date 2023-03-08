@@ -1,17 +1,21 @@
-.titulo{
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.titulo1{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     color: rgb(242, 230, 230);
-    font-size: 9em;
-    letter-spacing: 10px;
+    font-size: 25em;
+    letter-spacing: 0px;
     font-family: 'WaltographRegular';
     font-weight: normal;
     font-style: normal;
-    color: rgb(226, 223, 223);
-    text-shadow: rgb(119, 102, 102);
-
-
+    color: rgb(231, 231, 238);
+    text-shadow: rgb(233, 227, 227);
 }
 body{
     display: flex;
@@ -19,14 +23,8 @@ body{
     height: 100vh;
     justify-content: center;
 align-items: center;
-    background: url(./public/Disney.jpg);
+    background: url(./public/fc813e57424d1ad9576f9066812f670f.jpeg);
     background-repeat: no-repeat;
 background-size: cover;
 background-position: center;
 }
-
-
-
-
-
-
