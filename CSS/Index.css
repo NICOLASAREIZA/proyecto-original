@@ -6,10 +6,15 @@
 }
 body {
     display: flex;
-    justify-content: center;
+    justify-content: 5%;
     align-items: center;
     min-height: 100vh;
     background: #252839;
+    background-image: url(../public/paisaje.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
 }
 ul {
     position: relative;
